@@ -1,5 +1,7 @@
 ☄️・  Studying Software Engineering
+
 👨‍💻・Programmer 
+
 🌴・Professional Minecraft Staff
 
 <!---
